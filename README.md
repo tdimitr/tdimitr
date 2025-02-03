@@ -2,14 +2,14 @@
 
 I am a passionate developer who loves building innovative solutions. Here's a bit about me:
 
-* 🌍 Location: Based in Greece
-* 🔭 Current Project: Working on a Social Media App
-* 💡 Interests:
-  - 🌐 Web Development
-  - 📱 Mobile Development
-  - 🤖 Deep Learning & Machine Learning
-  - 🎮 Game Development 
-* 🎓 Education: I study Electrical Engineering and Computer Engineering at University of Thessaly
+* 🌍  Location: Based in Greece
+* 🚀  Current Project: Working on a Social Media App
+* 💡  Interests:
+  -  🌐 Web Development
+  -  📱 Mobile Development
+  -  🤖 Deep Learning & Machine Learning
+  -  🎮 Game Development 
+*  🎓 Education: I study **Electrical Engineering & Computer Engineering** at **University of Thessaly**
 
 ### Skills
 
