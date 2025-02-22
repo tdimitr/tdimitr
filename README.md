@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Dimitris Tsapalas 
+## Hi there 👋 My name is Dimitris
 
 I am a passionate developer who loves building innovative solutions. Here's a bit about me:
 
