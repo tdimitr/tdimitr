@@ -3,7 +3,6 @@
 I am a passionate developer who loves building innovative solutions. Here's a bit about me:
 
 * 🌍  Location: Based in Greece
-* 🚀  Current Project: Working on a Machine Learning Project
 * 💡  Interests:
   -  🌐 Web Development
   -  📱 Mobile Development
