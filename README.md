@@ -7,7 +7,7 @@ Here's a bit about me:
   -  🌐 Web Development
   -  📱 Mobile Development
   -  🤖 Deep Learning & Machine Learning
-*  🎓 Education: **Integrated Master's Degree, Electrical & Computer Engineering**  **University of Thessaly**
+*  🎓 Education: **Integrated Master's Degree, Electrical & Computer Engineering** - **University of Thessaly**
 
 ### Skills
 
