@@ -1,14 +1,13 @@
 ## Hi there 👋 My name is Dimitris
 
-I am a passionate developer who loves building innovative solutions. Here's a bit about me:
+Here's a bit about me:
 
 * 🌍  Location: Based in Greece
 * 💡  Interests:
   -  🌐 Web Development
   -  📱 Mobile Development
   -  🤖 Deep Learning & Machine Learning
-  -  🎮 Game Development 
-*  🎓 Education: I study **Electrical Engineering & Computer Engineering** at **University of Thessaly**
+*  🎓 Education: **Integrated Master's Degree, Electrical & Computer Engineering**  **University of Thessaly**
 
 ### Skills
 
